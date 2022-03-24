@@ -1,0 +1,5 @@
+.vscode
+build
+run
+external
+python/__pycache__
